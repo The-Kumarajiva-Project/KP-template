@@ -20,13 +20,15 @@ The template repo to be used across all repos.
 
 ## Repository Contents
 
-Files and folders in this repository.
+- Folder 1
+  - File a
+  - File b
 
 
 ## Owner
 
+- [](https://github.com/)
 - [@yojennifer](https://github.com/yojennifer)
-- ...
 
 ## Documentation
 
