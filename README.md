@@ -6,10 +6,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/orgs/The-Kumarajiva-Project/projects/1">Project</a> •
-  <a href="https://github.com/orgs/The-Kumarajiva-Project/discussions">Discussion</a> •
-  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki">User Guide</a> •
-  <a href="https://github.com/The-Kumarajiva-Project/BO-to-ZH-TM/wiki/Catalog">Catalog</a>
+  <a href="">Project</a> •
+  <a href="">RFJ</a> •
+  <a href="">RFC</a> •
+  <a href="">Discussion</a>
+
 </p>
 
 
@@ -17,17 +18,17 @@
 
 The template repo to be used across all repos.
 
-## Admin
+## Repository Contents
 
-* RFJ
-* RFC
-* Project
+Files and folders in this repository.
+
 
 ## Owner
 
 - [@yojennifer](https://github.com/yojennifer)
 - ...
 
-## Documentation & References
+## Documentation
 
-- ...
+
+
